@@ -9,7 +9,7 @@ get_header();
 		Despondently, I left the Finance sector & returned to the UK & retrained in Social Services with the desire to change the world, but also aware of the structural set up ingrained in the system.
 		After almost a decade of failing to change the world, it was evident with the socioeconomics of every path, that to make change it required amalgamations of several industries & conversing with people of similar interest.
  		</p>
-	test
+	test jim dec 1
 		<!-- <div class= "XXXX "> -->
 		
 		<span class="grid__itemj grid__item--1">J</span>
