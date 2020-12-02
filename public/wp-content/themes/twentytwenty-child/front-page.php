@@ -10,11 +10,14 @@ get_header();
 		After almost a decade of failing to change the world, it was evident with the socioeconomics of every path, that to make change it required amalgamations of several industries & conversing with people of similar interest.
 		 </p>
 		 
-		<p style=display:none class='displayInfo'style id="grahamInfo" > Obviously, I entered the Media Industry - https://www.imdb.com/name/nm1485418/?ref_=nv_sr_2?ref_=nv_sr_2 which has become a two-decade case study on the complexity of humans congregated in several covertly optimistic settings, making achievements against parity & deprivation.
+		<p style=display:none class='displayInfo'style id="grahamInfo" > Obviously, I entered the Media Industry  See here: <a style="display: contents" href= "https://www.imdb.com/name/nm1485418/?ref_=nv_sr_2?ref_=nv_sr_2" >IMDB</a> This has become a two-decade case study on the complexity of humans congregated in several covertly optimistic settings, making achievements against parity & deprivation.
+		With the advancement of age & the constant reminder that the desire (which never wavered) for implementing a different viewpoint to the mindset, is and continues to be achievable as the technology & access allows for a far-reaching effect in effecting change, I continue the march.
+		In its simplistic terms with several collaborators & myself, we have started the catalyst to create multiple ventures throughout, which can be used a template all over the world in assisting the disenfranchised & community and also amplifying diverse & inclusion, with a view to rewiring the consciousness to afford a sustainable living thus creating a breach in the regular systematic impressions.
+
 		    </p> 
 	
 		<!-- <div class= "XXXX "> -->
-		
+		<span class="spanTest">
 		<span  class="grid__itemj grid__item--1">j</span>
 		<span  class="grid__itemj grid__item--2">a</span>
 		<span  class="grid__itemj grid__item--3">c</span>
@@ -25,6 +28,7 @@ get_header();
 		<span class="grid__itemj grid__item--8">i</span>
 		<span class="grid__itemj grid__item--9">n</span>
 		<span  class="grid__itemj grid__item--10">e</span>
+		</span>
 		<!-- </div> -->
 		
 	

@@ -56,7 +56,7 @@ console.log("Thur");
 
 $j(document).ready(function(){
     $j(".grid__itemj").click(function(){
-      $j("p").show("#jacqInfo");
+      $j("#jacqInfo").show("#jacqInfo");
     },);
     $j(document).click(function(){
       $j().hide();
@@ -68,7 +68,7 @@ $j(document).ready(function(){
 
 $j(document).ready(function(){
     $j(".grid__itemg").click(function(){
-      $j("p").show(".grahamInfo");
+      $j("#grahamInfo").show("#grahamInfo");
     },);
     $j(document).click(function(){
       $j("p").hide();
