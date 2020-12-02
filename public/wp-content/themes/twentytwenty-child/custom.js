@@ -1,7 +1,7 @@
 
 var $j = jQuery.noConflict();
 
-console.log("now");
+console.log("Thur");
 
 // This kinda works.. delete if you dont use it
 // $j(document).ready(function () {
@@ -39,17 +39,40 @@ console.log("now");
 // $j(".grid__itemj").text("kjdf");
 
 
-$j(document).ready(function () {
-    // $j(this).append($j("p.jacqInfo"));
-    // alert("jimmmmm");
+// $j(document).ready(function () {
+//     // $j(this).append($j("p.jacqInfo"));
+//     // alert("jimmmmm");
 
-    $j("grid__itemj").hover(
-        function () {
-            $j(this).addClass("jacqInfo");
-        }, function () {
-            $j(this).removeClass("jacqInfo");
-        }
-    );
-    // alert("jimmmmm");
-});
+//     $j(".grid__itemj").hover(
+//         function () {
+//             // $j().addClass("grid__itemTest")
+//         // GeTTING THERE
+//              $j("a").append("<div> Started off my journey into Finance as a Civil Servant within HMRC</div>");
+//          }, function () {
+//              $j("p").addClass("reverseTest");
+//         }
+//     ); 
+// });
 
+$j(document).ready(function(){
+    $j(".grid__itemj").click(function(){
+      $j("p").show("#jacqInfo");
+    },);
+    $j(document).click(function(){
+      $j().hide();
+    });
+  });
+
+  console.log("post");
+
+
+$j(document).ready(function(){
+    $j(".grid__itemg").click(function(){
+      $j("p").show(".grahamInfo");
+    },);
+    $j(document).click(function(){
+      $j("p").hide();
+    });
+  });
+
+  console.log("Graham")
