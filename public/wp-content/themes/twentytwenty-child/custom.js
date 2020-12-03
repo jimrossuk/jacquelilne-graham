@@ -74,5 +74,75 @@ $j(document).ready(function(){
       $j("p").hide();
     });
   });
+  
 
-  console.log("Graham")
+  
+  console.log("Graham");
+
+  $j(document).ready(function(){
+    $j(".grid__itemsum").click(function(){
+      $j("#sumsInfo").show("#sumsInfo");
+    },);
+    $j(document).click(function(){
+      $j("p").hide();
+    });
+  });
+
+
+  $j(document).ready(function(){
+    $j(".grid__itemSecEye").click(function(){
+      $j("#secondEyeInfo").show("#secondEyeInfo");
+    },);
+    $j(document).click(function(){
+      $j("p").hide();
+    });
+  });
+
+
+  $j(document).ready(function(){
+    $j(".grid__itemjoag").click(function(){
+      $j("#joagInfo").show("#joagInfo");
+    },);
+    $j(document).click(function(){
+      $j("p").hide();
+    });
+  });
+
+
+  $j(document).ready(function(){
+    $j(".grid__itemres").click(function(){
+      $j("#respectInfo").show("#respectInfo");
+    },);
+    $j(document).click(function(){
+      $j("p").hide();
+    });
+  });
+
+
+  $j(document).ready(function(){
+    $j(".grid__itempoint").click(function(){
+      $j("#pointInfo").show("#pointInfo");
+    },);
+    $j(document).click(function(){
+      $j("p").hide();
+    });
+  });
+
+  $j(document).ready(function(){
+    $j(".grid__itemcultra").click(function(){
+      $j("#cultraInfo").show("#cultraInfo");
+    },);
+    $j(document).click(function(){
+      $j("p").hide();
+    });
+  });
+
+  $j(document).ready(function(){
+    $j(".grid__itemomni").click(function(){
+      $j("#omniInfo").show("#omniInfo");
+    },);
+    $j(document).click(function(){
+      $j("p").hide();
+    });
+  });
+  

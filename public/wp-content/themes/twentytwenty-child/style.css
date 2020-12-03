@@ -32,9 +32,9 @@
     position: relative;
 }
 
+/* This works... but only for jacquiieline... needs to be more universal */
 .spanTest {
     display: inline-grid;
-    background: blue;
     -ms-grid-row: 5;
     grid-row: 5 / 5;
     -ms-grid-column: 1;
@@ -787,10 +787,6 @@ display: block;
 width: 0;
 z-index: 1;
 }
-
-/* .a123 {
-    display: hidden;
-} */
 
 @media screen and(min-width: 401px) {
 .grid {
