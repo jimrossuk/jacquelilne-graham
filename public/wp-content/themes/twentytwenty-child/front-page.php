@@ -4,7 +4,9 @@ get_header();
 <div class="flex-for-cross">
 	
 <div class="grid">
-		<p style=display:none class='displayInfo' id="jacqInfo"> Started off my journey into Finance as a Civil Servant within HMRC, which quickly illustrated the desire not to be restricted by a title. 
+		<p style=display:none class='displayInfo' id="jacqInfo">   
+		
+		Started off my journey into Finance as a Civil Servant within HMRC, which quickly illustrated the desire not to be restricted by a title. 
 		Spent almost a decade assimilating myself into a thriving community & corporate sector, still within the Finance world, but gathering an interest in how closely connected the corporate/private sector compounded the disenfranchised.  The realisation that this was by design, affected my entire discipline of ‘working hard & you will achieve’.
 		Despondently, I left the Finance sector & returned to the UK & retrained in Social Services with the desire to change the world, but also aware of the structural set up ingrained in the system.
 		After almost a decade of failing to change the world, it was evident with the socioeconomics of every path, that to make change it required amalgamations of several industries & conversing with people of similar interest.
@@ -127,7 +129,7 @@ We do this by engaging with creative and social impact groups, connecting a dive
 <!-- </span> -->
 
 	<!-- // Spacesake -->
-	
+
 	<span class="grid__itemspace grid__item--61">s</span>
 	<span class="grid__itemspace grid__item--62">p</span>
 	<span class="grid__itemspace grid__item--63">a</span>

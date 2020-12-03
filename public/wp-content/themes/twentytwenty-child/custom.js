@@ -24,7 +24,7 @@ console.log("Thur");
 // })
 
 // $j(document).ready(function () {
-//     $j("#jacqInfo").hover();
+//     $j("#jacqInfo").click();
 
 
 // })
@@ -43,7 +43,7 @@ console.log("Thur");
 //     // $j(this).append($j("p.jacqInfo"));
 //     // alert("jimmmmm");
 
-//     $j(".grid__itemj").hover(
+//     $j(".grid__itemj").click(
 //         function () {
 //             // $j().addClass("grid__itemTest")
 //         // GeTTING THERE
@@ -63,7 +63,7 @@ $j(document).ready(function(){
     });
   });
 
-  console.log("post");
+  console.log("ji");
 
 
 $j(document).ready(function(){
@@ -77,7 +77,7 @@ $j(document).ready(function(){
   
 
   
-  console.log("Graham");
+  console.log("im");
 
   $j(document).ready(function(){
     $j(".grid__itemsum").click(function(){
@@ -145,4 +145,16 @@ $j(document).ready(function(){
       $j("p").hide();
     });
   });
+
+  $j(document).ready(function(){
+    $j(".grid__itemspace").click(function(){
+      $j("#spaceInfo").show("#spaceInfo");
+    },);
+    $j(document).click(function(){
+      $j("p").hide();
+    });
+  });
   
+
+
+  console.log("done")
