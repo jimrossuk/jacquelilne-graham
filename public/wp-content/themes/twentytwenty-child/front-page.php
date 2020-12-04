@@ -41,26 +41,30 @@ We do this by engaging with creative and social impact groups, connecting a dive
 <p class='displayInfo'style="display:none" id="omniInfo">A Director of an incubator group of divisions and subsidiaries business developed under a template of cross pollination and resources/labour to align in the current interest of the employees contact  <a style="display: contents; text-decoration:none" href="mailto:omnimatrixgroup@gmail.com"> omnimatrixgroup@gmail.com </a> </p>
 
 		<!-- <div class= "XXXX "> -->
-		
-		<span  class="grid__itemj grid__item--1">j</span>
-		<span  class="grid__itemj grid__item--2">a</span>
-		<span  class="grid__itemj grid__item--3">c</span>
-		<span  class="grid__itemj grid__item--4">q</span>
-		<span class="grid__itemj grid__item--5">u</span>
-		<span class="grid__itemj grid__item--6">e</span>
-		<span class="grid__itemj grid__item--7">l</span>
-		<span class="grid__itemj grid__item--8">i</span>
-		<span class="grid__itemj grid__item--9">n</span>
-		<span  class="grid__itemj grid__item--10">e</span>
+		<span class="spanJacq hov">
+
+			<span  class="grid__itemj grid__item--1">j</span>
+			<span  class="grid__itemj grid__item--2">a</span>
+			<span  class="grid__itemj grid__item--3">c</span>
+			<span  class="grid__itemj grid__item--4">q</span>
+			<span class="grid__itemj grid__item--5">u</span>
+			<span class="grid__itemj grid__item--6">e</span>
+			<span class="grid__itemj grid__item--7">l</span>
+			<span class="grid__itemj grid__item--8">i</span>
+			<span class="grid__itemj grid__item--9">n</span>
+			<span  class="grid__itemj grid__item--10">e</span>
+		</span>
 		<!-- </span> -->
 		<!-- </div> -->
 		
 	
 	<!-- Joag -->
-	
-	<span class="grid__itemjoag grid__item--11">o</span>
-	<span class="grid__itemjoag grid__item--12">a</span>
-	<span class="grid__itemjoag grid__item--13">g</span>
+	<span class="spanJoag hov">
+
+		<span class="grid__itemjoag grid__item--11">o</span>
+		<span class="grid__itemjoag grid__item--12">a</span>
+		<span class="grid__itemjoag grid__item--13">g</span>
+	</span>
 	<!-- </span> -->
 
 	<!-- Graham -->

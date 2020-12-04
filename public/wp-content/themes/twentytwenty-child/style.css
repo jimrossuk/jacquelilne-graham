@@ -4,7 +4,10 @@
  Description:  This is the first theme created by Jim a child theme of WordPress' TwentyTwenty theme
  Template:     twentytwenty
 */
-
+/* Does not display the menu or search */
+.header-navigation-wrapper {
+    display: none;
+}
 
 .wrapper {
     display: -webkit-box;
@@ -33,7 +36,7 @@
 }
 
 /* This works... but only for jacquiieline... needs to be more universal */
-.spanTest {
+.spanJacq {
     display: inline-grid;
     -ms-grid-row: 5;
     grid-row: 5 / 5;
@@ -41,11 +44,22 @@
     grid-column: 1 / 11;
     letter-spacing: justify;
 }
-.spanTest:hover {
-    background: yellow;
+/* Background of test definition */
+.spanJacq:hover {
+    background: green;
 }
-/* Currently not u8sing this */
+/* Tying to put image/colour */
+.home {
+    background: cornflowerblue;
+}
+.spanJoag {
+    display: inline-grid;
+    grid-column: 6 / 9;
 
+}
+.spanJacq.hov:hover {
+    background: pink;
+}
 .header-inner {
     padding: 0;
 }
@@ -57,6 +71,7 @@
     display: flex;
     -ms-flex-pack: distribute;
     justify-content: space-around;
+
 }
 
 .grid {
